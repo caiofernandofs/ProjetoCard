@@ -6,7 +6,7 @@ const user = {
   avatar: "Imagem.jfif",
   links: [
     { name: "GitHub", url: "https://github.com/caiofernandofs" },
-    { name: "LinkedIn", url: "https://linkedin.com" },
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/caiosantos-dev/" },
     { name: "Instagram", url: "https://www.instagram.com/caio.ffsantos/" }
   ]
 };
