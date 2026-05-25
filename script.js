@@ -2,11 +2,10 @@
 const user = {
   name: "Caio Fernando",
   location: "Campinas, São Paulo",
-  bio: "Front-end developer and avid reader.",
+  bio: "Desenvolvedor front-end ",
   avatar: "Imagem.jfif",
   links: [
-    { name: "GitHub", url: "https://github.com/consultorcfs-bit" },
-    { name: "Frontend Mentor", url: "https://frontend_mentor.com" },
+    { name: "GitHub", url: "https://github.com/caiofernandofs" },
     { name: "LinkedIn", url: "https://linkedin.com" },
     { name: "Instagram", url: "https://www.instagram.com/caio.ffsantos/" }
   ]
